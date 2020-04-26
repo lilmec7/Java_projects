@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Mortgage Calculator" type="Application" factoryName="Application" folderName="Mortgage Calculator">
+    <option name="MAIN_CLASS_NAME" value="com.hectorfdz7.Main" />
+    <module name="Desktop" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
